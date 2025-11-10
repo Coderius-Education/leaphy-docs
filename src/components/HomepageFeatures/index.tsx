@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
                 Specifieke componenten
             </>
         ),
-        link: '/docs/intro',
+        link: '/docs/category/redden-basis',
         info: 'Gebruik de bibliotheek als naslagwerk voor specifieke componenten, sensoren of als je hulp nodig hebt bij debuggen.',
     },
 ];
