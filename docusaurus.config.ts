@@ -7,7 +7,6 @@ const projectName = "leaphy-docs";
 
 const config: Config = {
   title: 'Leaphy-Docs',
-  tagline: 'Micropython naar de maan  🔥🔥',
 
   url: 'https://robotica.coderius.nl',
   baseUrl: '/',
@@ -78,7 +77,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/Coderius-College-Amersfoort/leaphy-docs',
+          href: 'https://github.com/Coderius-Education/leaphy-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -92,12 +91,12 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Coderius-College-Amersfoort/leaphy-docs',
+              href: 'https://github.com/Coderius-Education/leaphy-docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Coderius Education, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
