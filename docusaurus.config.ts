@@ -3,16 +3,16 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const organizationName = "Coderius-Education";
-const projectName = "leaphy-docs";
+const projectName = "robotica-docs";
 
 const config: Config = {
-  title: 'Leaphy-Docs',
+  title: 'Robotica Lessenpakket',
 
   url: 'https://robotica.coderius.nl',
   baseUrl: '/',
 
   organizationName: 'Coderius-Education',
-  projectName: 'leaphy-docs',
+  projectName: 'robotica-docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -77,7 +77,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/Coderius-Education/leaphy-docs',
+          href: 'https://github.com/Coderius-Education/robotica-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -91,7 +91,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Coderius-Education/leaphy-docs',
+              href: 'https://github.com/Coderius-Education/robotica-docs',
             },
           ],
         },
